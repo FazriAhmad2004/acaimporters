@@ -66,7 +66,7 @@ function Gallery() {
           {/* Large Image */}
 
           <img
-            src="/images/Hero.jpeg"
+            src="/acaimporters/images/Hero.jpeg"
             alt="Japanese Vehicle"
             className="w-full h-[500px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
           />
@@ -76,13 +76,13 @@ function Gallery() {
           <div className="grid md:grid-cols-2 gap-8">
 
             <img
-              src="/images/hiluxred.jpeg"
+              src="/acaimporters/images/hiluxred.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[450px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
 
             <img
-              src="/images/hiluxblack.jpeg"
+              src="/acaimporters/images/hiluxblack.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[450px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
@@ -93,13 +93,13 @@ function Gallery() {
           <div className="grid md:grid-cols-2 gap-8">
 
             <img
-              src="/images/kdh.jpeg"
+              src="/acaimporters/images/kdh.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[350px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
 
             <img
-              src="/images/sold.jpeg"
+              src="/acaimporters/images/sold.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[350px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
@@ -108,13 +108,13 @@ function Gallery() {
              <div className="grid md:grid-cols-2 gap-8">
 
             <img
-              src="/images/every.jpeg"
+              src="/acaimporters/images/every.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[750px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
 
             <img
-              src="/images/spacia.jpeg"
+              src="/acaimporters/images/spacia.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[750px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
@@ -123,13 +123,13 @@ function Gallery() {
              <div className="grid md:grid-cols-2 gap-8">
 
             <img
-              src="/images/spacia.jpeg"
+              src="/acaimporters/images/spacia.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[350px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
 
             <img
-              src="/images/premio.jpeg"
+              src="/acaimporters/images/premio.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[350px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
@@ -139,7 +139,7 @@ function Gallery() {
           <div className="grid md:grid-cols-2 gap-8 justify-center">
 
             <img
-              src="/images/prado.jpeg"
+              src="/acaimporters/images/prado.jpeg"
               alt="Japanese Vehicle"
               className="w-full h-[750px] object-cover rounded-3xl shadow-xl hover:scale-[1.02] transition duration-500"
             />
