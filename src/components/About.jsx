@@ -8,8 +8,8 @@ function About() {
           {/* Left Image */}
           <div>
             <img
-              src="/images/test1.jpeg"
-              alt="ACA Importers"
+  src={`${import.meta.env.BASE_URL}images/test1.jpeg`}
+                alt="ACA Importers"
               className="rounded-3xl shadow-2xl w-full h-[550px] object-cover"
             />
           </div>
