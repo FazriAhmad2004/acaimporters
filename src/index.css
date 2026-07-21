@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Inter',sans-serif;
+    background:#F8FAFC;
+    color:#1E293B;
+    overflow-x:hidden;
+}
+
+h1,h2,h3,h4,h5{
+    font-family:'Manrope',sans-serif;
+}
+
+::selection{
+    background:#D4AF37;
+    color:white;
+}
