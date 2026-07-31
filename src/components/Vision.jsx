@@ -6,7 +6,7 @@ function Vision() {
       id="vision"
       className="relative min-h-[650px] flex items-center justify-center bg-cover bg-center bg-fixed"
       style={{
-        backgroundImage: "url('/images/Hero.jpeg')",
+        backgroundImage: "url('/acaimporters/images/Hero.jpeg')",
       }}
     >
       {/* Dark Gradient Overlay */}

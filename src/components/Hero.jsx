@@ -4,7 +4,7 @@ function Hero() {
       id="home"
       className="relative h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: "url('/images/Hero.jpeg')",
+        backgroundImage: "url('/acaimporters/images/Hero.jpeg')",
       }}
     >
       {/* Dark Overlay */}
